@@ -1,2 +1,2 @@
-# sadulloyev.github.io
-Мой первый опубликований сайт 
+# shukhrat sa'dulloyev
+мои домашние задания
