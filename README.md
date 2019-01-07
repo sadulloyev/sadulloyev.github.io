@@ -1,4 +1,4 @@
 
 # shukhrat sa'dulloyev
-мои домашние задания
+мои закадычные други
 [google.com](https://google.com "sadulloyev ")
