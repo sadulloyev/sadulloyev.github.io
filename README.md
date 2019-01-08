@@ -1,4 +1,4 @@
 
 # shukhrat sa'dulloyev
-мои закадычные други
-[google.com](https://google.com "sadulloyev ")
+мои Домашние Задание:
+[HomeWorkPHP5](https://sadulloyev.github.io/homework5php.php "sadulloyev ")
